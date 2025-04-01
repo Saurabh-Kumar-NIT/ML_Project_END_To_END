@@ -111,7 +111,6 @@ Build and run the Flask app:
 bash
 Copy
 python src/deployment/app.py
-You can now access the web app locally at http://127.0.0.1:5000.
 
 Alternatively, you can containerize the application using Docker for easier deployment.
 
